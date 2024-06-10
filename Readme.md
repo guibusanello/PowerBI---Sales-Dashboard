@@ -1,7 +1,7 @@
 # Dashboard de Acompanhamento de Vendas de Produtos 📊
 
 ## Descrição
-Este projeto é um dashboard interativo desenvolvido para monitorar e analisar as vendas de produtos de uma empresa. Utilizando tecnologias como Python, SQL e Excel, o dashboard permite uma visualização clara e detalhada dos dados de vendas, auxiliando na tomada de decisões estratégicas.
+Este projeto é um dashboard interativo desenvolvido para monitorar e analisar as vendas de produtos de uma empresa, permitindo uma visualização clara e detalhada dos dados de vendas, auxiliando na tomada de decisões estratégicas.
 
 ## Funcionalidades
 📈 Visão Geral das Vendas: Exibe um resumo das vendas totais, valor total e valor médio das vendas.
