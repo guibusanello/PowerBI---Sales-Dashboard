@@ -17,6 +17,6 @@ Este projeto é um dashboard interativo desenvolvido para monitorar e analisar a
 📊 Gráficos Interativos: Inclui diversos tipos de gráficos que facilitam a análise visual dos dados.
 
 ## Tecnologias Utilizadas
-Excel: Ferramenta de apoio para organização e visualização preliminar dos dados.
+Excel: Visualização, organização e limpeza preliminar dos dados.
 
-Power BI/Tableau: Para criação e visualização do dashboard interativo.
+Power BI: Para criação e visualização do dashboard interativo.
